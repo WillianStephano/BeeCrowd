@@ -21,4 +21,4 @@ while (diasEntrada != 0) {
    break;
 }
 
-console.log(`${anos} anos(s)\n${meses} mes(es)\n${dias} dia(s)`);
+console.log(`${anos} ano(s)\n${meses} mes(es)\n${dias} dia(s)`);
